@@ -4,6 +4,8 @@
 
 🌱 I’m currently learning: Vision, Deep learning, Android application making
 
+😄 I was/am: SNS data scientist, Backend Enginner, AI Researcher
+
 📫 How to reach me: flowerk94@gmail.com
 
 ⚡ Fun fact: I once majored dark matters: neutrino, axion.
