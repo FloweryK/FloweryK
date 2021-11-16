@@ -4,11 +4,9 @@
 
 🌱 I’m currently learning: Vision on Mobile Device
 
-😄 I was/am: Physicist, SNS data scientist, AI Researcher, Backend Developer.
+😄 I was/am: Physicist (dark matters), SNS data scientist, AI Researcher, Backend Developer.
 
 📫 How to reach me: flowerk94@gmail.com
-
-⚡ Fun fact: I once majored dark matters: neutrino, axion.
 
 papers;
 Ballparking the Urban Placeness: A Case Study of Analyzing Starbucks Posts on Instagram (SocInfo 2018, co-1st author)
