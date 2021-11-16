@@ -2,9 +2,9 @@
 
 🔭 I’m currently working on: Real-time Semantic/Instance Segmenation, Inpainting, Edge device(mostly mobile device)
 
-🌱 I’m currently learning: Vision, Deep learning, Android application making
+🌱 I’m currently learning: Vision on Mobile Device
 
-😄 I was/am: SNS data scientist, Backend Enginner, AI Researcher
+😄 I was/am: Physicist, SNS data scientist, AI Researcher, Backend Developer.
 
 📫 How to reach me: flowerk94@gmail.com
 
