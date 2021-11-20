@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-🔭 I’m currently working on: Real-time Semantic/Instance Segmenation, Inpainting, Edge device(mostly mobile device)
+📫 I'm currently working as: AI Researcher, Backend Developer.
 
-🌱 I’m currently learning: Vision on Mobile Device
+🔭 I'm currently passionate about: Real-time Semantic/Instance Segmenation, Inpainting, Edge device(mostly mobile device)
 
-😄 I was/am: Physicist (dark matters), SNS data scientist, AI Researcher, Backend Developer.
+😄 I Majored: Physics(dark matters), SNS Big data analysis.
+
 
 📫 How to reach me: flowerk94@gmail.com
 
