@@ -4,7 +4,7 @@
 
 🔭 I'm currently passionate about: Real-time Semantic/Instance Segmenation, Inpainting, Edge device(mostly mobile device)
 
-😄 I Majored: Physics(dark matters), SNS Big data analysis.
+😄 I Majored: Physics(dark matters) and Computer Science(SNS Big data analysis)
 
 
 📫 How to reach me: flowerk94@gmail.com
