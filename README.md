@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FloweryK&show_icons=true&theme=radical)
 
-📫 I'm currently working as: AI Researcher, Backend Developer.
+📫 I'm currently working as: AI Researcher(pytorch), Backend Developer(node, flask), FrontEnd Developer(android, react, react-native)
 
 🔭 I'm currently passionate about: Real-time Semantic/Instance Segmenation, Inpainting, Edge device(mostly mobile device)
 
