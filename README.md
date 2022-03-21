@@ -1,14 +1,17 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FloweryK&show_icons=true&theme=radical)
 
-📫 I'm currently working as: AI Researcher(pytorch), Backend Developer(node, flask), FrontEnd Developer(android, react, react-native)
+### 🥇 I'm currently working as: 
+- FrontEnd Developer
 
-🔭 I'm currently passionate about: Real-time Semantic/Instance Segmenation, Inpainting, Edge device(mostly mobile device)
+### 💡 I'm currently passionate about: 
+- Working as self-motivated AI engineer at night 
+- Computer Vision (Segmentation, Inpainting, ...) on Edge Devices (mostly mobile phones)
 
-😄 I Majored: Physics(dark matters) and Computer Science(SNS Big data analysis)
+### 💪 I Majored: 
+- Computer Science @KAIST (Master, SNS Big data analysis)
+- Physics @KAIST (Bachelor)
 
-
-📫 How to reach me: flowerk94@gmail.com
-
-papers;
-Ballparking the Urban Placeness: A Case Study of Analyzing Starbucks Posts on Instagram (SocInfo 2018, co-1st author)
-https://link.springer.com/chapter/10.1007/978-3-030-01129-1_18
+### ✏️ papers: 
+- [Ballparking the Urban Placeness: A Case Study of Analyzing Starbucks Posts on Instagram (SocInfo 2018, co-1st author)](
+https://link.springer.com/chapter/10.1007/978-3-030-01129-1_18)
+- [Reading urban placeness from instagram : a case study of gangbuk and gangnam (Master's thesis)](http://library.kaist.ac.kr/search/detail/view.do?bibCtrlNo=843485&flag=dissertation)
