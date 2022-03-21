@@ -4,7 +4,7 @@
 - FrontEnd Developer
 
 ### 💡 I'm currently passionate about: 
-- Working as self-motivated AI engineer at night 
+- Working as a self-motivated AI engineer at night 
 - Computer Vision (Segmentation, Inpainting, ...) on Edge Devices (mostly mobile phones)
 
 ### 💪 I Majored: 
