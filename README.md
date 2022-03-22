@@ -1,7 +1,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FloweryK&show_icons=true&theme=radical)
 
 ### 🥇 I'm currently working as: 
-- FrontEnd Developer
+- FrontEnd Dev (2021.09~)
+- BackEnd Dev (2021.03~2021.08)
+- AI Researcher (2020.05~2021.02)
 
 ### 💡 I'm currently passionate about: 
 - Working as a self-motivated AI engineer at night 
