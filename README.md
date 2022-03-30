@@ -10,8 +10,8 @@
 - Computer Vision (Segmentation, Inpainting, ...) on Edge Devices (mostly mobile phones)
 
 ### 💪 I Majored: 
-- Computer Science @KAIST (Master, SNS Big data analysis)
-- Physics @KAIST (Bachelor)
+- Computer Science @KAIST (Master, 2016~2019)
+- Physics @KAIST (Bachelor, 2012~2016)
 
 ### ✏️ papers: 
 - [Ballparking the Urban Placeness: A Case Study of Analyzing Starbucks Posts on Instagram (SocInfo 2018, co-1st author)](
