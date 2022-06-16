@@ -1,17 +1,17 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FloweryK&show_icons=true&theme=radical)
 
+### 💪 I Majored: 
+- Physics @KAIST (Bachelor, 2012~2016)
+- Computer Science @KAIST (Master, 2016~2019)
+
 ### 🥇 I'm currently working as: 
-- FrontEnd Dev (2021.09~)
-- BackEnd Dev (2021.03~2021.08)
 - AI Researcher (2020.05~2021.02)
+- BackEnd Dev (2021.03~2021.08)
+- FrontEnd Dev (2021.09~2022.06)
 
 ### 💡 I'm currently passionate about: 
 - Working as a self-motivated AI engineer at night 
 - Computer Vision (Segmentation, Inpainting, ...) on Edge Devices (mostly mobile phones)
-
-### 💪 I Majored: 
-- Computer Science @KAIST (Master, 2016~2019)
-- Physics @KAIST (Bachelor, 2012~2016)
 
 ### ✏️ papers: 
 - [Ballparking the Urban Placeness: A Case Study of Analyzing Starbucks Posts on Instagram (SocInfo 2018, co-1st author)](
