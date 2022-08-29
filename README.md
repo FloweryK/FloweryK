@@ -6,8 +6,8 @@
 
 ### 🥇 I'm currently working as: 
 - AI Researcher (2020.05~2021.02)
-- BackEnd Dev (2021.03~2021.08)
-- FrontEnd Dev (2021.09~2022.06)
+- Software Engineer (BackEnd, FrontEnd) (2021.03~2022.06)
+- Data Analyst (2022.07~)
 
 ### 💡 I'm currently passionate about: 
 - Working as a self-motivated AI engineer at night 
