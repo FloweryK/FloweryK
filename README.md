@@ -5,9 +5,9 @@
 - Computer Science @KAIST (Master, 2016~2019)
 
 ### 🥇 I'm currently working as: 
-- AI Researcher (2020.05~2021.02)
-- Software Engineer (BackEnd, FrontEnd) (2021.03~2022.06)
-- Data Analyst (2022.07~)
+- AI Researcher (@TmaxSoft, 2020.05~2021.02)
+- Software Engineer (BackEnd, FrontEnd) (@TmaxSoft, 2021.03~2022.06)
+- Data Analyst (@Devsisters, 2022.07~)
 
 ### 💡 I'm currently passionate about: 
 - Working as a self-motivated AI engineer at night 
