@@ -6,7 +6,7 @@
 
 ### 🥇 I'm currently working as: 
 - AI Researcher (@TmaxSoft, 2020.05~2021.02)
-- Software Engineer (BackEnd, FrontEnd) (@TmaxSoft, 2021.03~2022.06)
+- FrontEnd, Backend Engineer (@TmaxSoft, 2021.03~2022.06)
 - Data Analyst (@Devsisters, 2022.07~)
 
 ### 💡 I'm currently passionate about: 
