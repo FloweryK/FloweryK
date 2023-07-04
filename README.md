@@ -10,7 +10,8 @@
 - Data Analyst (@Devsisters, 2022.07~)
 
 ### 💡 I'm currently passionate about: 
-- Working as a self-motivated AI engineer at night 
+- Full stack development
+- Transformer and its applications
 - Computer Vision (Segmentation, Inpainting, ...) on Edge Devices (mostly mobile phones)
 
 ### ✏️ papers: 
