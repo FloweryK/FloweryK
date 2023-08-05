@@ -11,7 +11,7 @@
 
 ### 💡 I'm currently passionate about: 
 - Full stack development
-- Transformer and its applications
+- Transformer, LLM and its applications
 - Computer Vision (Segmentation, Inpainting, ...) on Edge Devices (mostly mobile phones)
 
 ### ✏️ papers: 
