@@ -9,7 +9,7 @@
 - Frontend Dev, Data Analyst (@Devsisters, 2022.07~)
 
 ### 💡 I'm currently passionate about: 
-- Full stack development
+- Full stack development (Mainly AI, MLOPs, Frontend development)
 - Transformer, LLM and its applications
 - Computer Vision (Segmentation, Inpainting, ...) on Edge Devices (mostly mobile phones)
 
